@@ -13,4 +13,5 @@ I have a passion for creating engaging and user-friendly web applications. I aim
 - Playing sports: badminton, volleyball, basketball
 - Playing instruments: flute, ukulele, piano
 - Reading books: mystery, horror
-  
+## Contact
+- Email: bugarinnicole9@gmail.com
