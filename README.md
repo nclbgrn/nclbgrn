@@ -8,7 +8,7 @@ I have a passion for creating engaging and user-friendly web applications. I aim
 - Explore frontend and backend tech frameworks
 - Database management
 - Prototyping and wireframing
-###Interestests
+## Interests
 - Dancing: any genre, but mainly hip-hop
 - Playing sports: badminton, volleyball, basketball
 - Playing instruments: flute, ukulele, piano
